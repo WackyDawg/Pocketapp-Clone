@@ -4,16 +4,18 @@
 # PocketApp - Piggyvest Clone
 
 <p align="center">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-16+-red?logo=angular&logoColor=white&style=for-the-badge">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-17+-red?logo=angular&logoColor=white&style=for-the-badge">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-3+-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge">
-  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-5+-blue?logo=capacitor&logoColor=white&style=for-the-badge">
+  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-7+-blue?logo=capacitor&logoColor=white&style=for-the-badge">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
   <img alt="Build" src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge">
 </p>
 
 ---
 
-**PocketApp** is a beautiful and functional clone of the popular Piggyvest app, built using **Angular**, **TailwindCSS**, and **CapacitorJS** for a seamless web and mobile experience.
+**PocketApp** by PiggyVest is a versatile mobile money and social commerce platform designed for Nigerians who want smarter ways to manage personal finances, run businesses, and handle group expenses. Fully licensed by the Central Bank of Nigeria (CBN) and backed by the Nigeria Deposit Insurance Corporation (NDIC), PocketApp provides a secure and reliable environment for all financial activities.  
+
+My clone of PocketApp is built using **Angular**, **TailwindCSS**, and **CapacitorJS** to ensure a seamless, responsive experience across both web and mobile platforms.
 
 This project showcases a modern fintech-style savings and investment app UI with responsive design, mobile capabilities, and a clean, professional layout.
 
