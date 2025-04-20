@@ -3,6 +3,11 @@
 
 # PocketApp - Piggyvest Clone
 
+> **📝 PS:**  
+> Hey there! I'm currently working on this project at a **slow and steady pace** because of school 🏫📚.  
+> Feel free to contribute — **PRs are welcome!** 🚀  
+> Also, I'm still learning, so if you spot any weird bugs or spaghetti code 🍝... just know, it's all part of the *"growth process"* 😂. Thanks for understanding and supporting!
+
 <p align="center">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-17+-red?logo=angular&logoColor=white&style=for-the-badge">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-3+-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge">
