@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.swaggies.app',
-  appName: 'swaggies',
-  webDir: 'dist/vaultly/browser',
+  appId: 'com.pocketapp.app',
+  appName: 'Pocketapp',
+  webDir: 'dist/Pocketapp/browser',
   "plugins": {
     "StatusBar": {
       "overlaysWebView": false,
